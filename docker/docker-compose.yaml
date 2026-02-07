@@ -5,10 +5,10 @@ services:
     image: mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: password@123
+      MYSQL_ROOT_PASSWORD: <your_root_password>
       MYSQL_DATABASE: myapp
       MYSQL_USER: sbaitman
-      MYSQL_PASSWORD: SBaitman@123
+      MYSQL_PASSWORD: <your_mysql_password>
     ports:
       - "3306:3306"
     volumes:
