@@ -1,0 +1,501 @@
+Transaction_ID,Product_ID,Product_Name,Category,Quantity,Unit_Price,Total,Sale_Date,Region,Salesperson
+1249,P020,Planner,Stationary,1,19.99,19.99,8/26/2023 0:00:00,East,Sarah Jones
+1467,P012,Standing Desk,Furniture,1,449.99,449.99,9/10/2023 0:00:00,East,Sarah Jones
+1408,P020,Planner,Stationary,7,19.99,139.93,11/19/2023 0:00:00,South,Mike Wilson
+1435,P019,Printer Paper,Stationary,3,24.99,74.97,7/5/2023 0:00:00,South,Sarah Jones
+1011,P012,Standing Desk,Furniture,9,449.99,4049.91,7/9/2023 0:00:00,South,Emma Brown
+1491,P013,Desk Lamp,Furniture,1,45.99,45.99,10/29/2023 0:00:00,West,John Smith
+1344,P013,Desk Lamp,Furniture,10,45.99,459.9,10/2/2023 0:00:00,West,David Lee
+1012,P009,External SSD,Electronics,3,109.99,329.97,9/24/2023 0:00:00,North,Emma Brown
+1071,P017,Pen Pack,Stationary,2,8.99,17.98,11/29/2023 0:00:00,South,Sarah Jones
+1397,P001,Laptop,Electronics,10,899.99,8999.9,7/4/2023 0:00:00,South,Emma Brown
+1387,P011,Desk Chair,Furniture,8,199.99,1599.92,11/27/2023 0:00:00,North,David Lee
+1352,P014,Monitor Stand,Furniture,1,49.99,49.99,7/11/2023 0:00:00,East,John Smith
+1240,P016,Notebook Set,Stationary,7,15.99,111.93,8/5/2023 0:00:00,South,Mike Wilson
+1052,P010,Tablet,Electronics,10,449.99,4499.9,7/4/2023 0:00:00,East,Sarah Jones
+1196,P010,Tablet,Electronics,3,449.99,1349.97,11/15/2023 0:00:00,South,Sarah Jones
+1472,P013,Desk Lamp,Furniture,4,45.99,183.96,8/25/2023 0:00:00,South,John Smith
+1433,P017,Pen Pack,Stationary,10,8.99,89.9,10/13/2023 0:00:00,East,Sarah Jones
+1389,P002,Wireless Mouse,Electronics,10,29.99,299.9,8/16/2023 0:00:00,West,Emma Brown
+1237,P015,Footrest,Furniture,7,35.99,251.93,8/30/2023 0:00:00,North,Mike Wilson
+1152,P003,Keyboard,Electronics,6,79.99,479.94,10/28/2023 0:00:00,East,Mike Wilson
+1329,P015,Footrest,Furniture,9,35.99,323.91,9/4/2023 0:00:00,North,David Lee
+1070,P010,Tablet,Electronics,6,449.99,2699.94,8/24/2023 0:00:00,North,John Smith
+1005,P013,Desk Lamp,Furniture,2,45.99,91.98,7/2/2023 0:00:00,West,John Smith
+1273,P008,USB Hub,Electronics,5,34.99,174.95,10/2/2023 0:00:00,North,David Lee
+1360,P005,"Monitor 27""",Electronics,8,349.99,2799.92,7/26/2023 0:00:00,East,John Smith
+1380,P010,Tablet,Electronics,6,449.99,2699.94,10/11/2023 0:00:00,South,David Lee
+1473,P015,Footrest,Furniture,6,35.99,215.94,7/29/2023 0:00:00,West,Emma Brown
+1033,P009,External SSD,Electronics,7,109.99,769.93,7/12/2023 0:00:00,South,Sarah Jones
+1008,P010,Tablet,Electronics,6,449.99,2699.94,11/11/2023 0:00:00,West,David Lee
+1110,P006,Headphones,Electronics,9,149.99,1349.91,11/13/2023 0:00:00,South,John Smith
+1067,P013,Desk Lamp,Furniture,2,45.99,91.98,11/5/2023 0:00:00,North,Sarah Jones
+1429,P005,"Monitor 27""",Electronics,9,349.99,3149.91,10/10/2023 0:00:00,South,Emma Brown
+1404,P006,Headphones,Electronics,9,149.99,1349.91,10/1/2023 0:00:00,South,David Lee
+1212,P014,Monitor Stand,Furniture,3,49.99,149.97,9/22/2023 0:00:00,South,David Lee
+1126,P015,Footrest,Furniture,8,35.99,287.92,7/4/2023 0:00:00,North,Mike Wilson
+1235,P016,Notebook Set,Stationary,10,15.99,159.9,9/12/2023 0:00:00,West,Sarah Jones
+1112,P004,"Monitor 24""",Electronics,8,249.99,1999.92,9/2/2023 0:00:00,West,John Smith
+1165,P007,Webcam,Electronics,3,89.99,269.97,11/13/2023 0:00:00,West,Emma Brown
+1190,P015,Footrest,Furniture,7,35.99,251.93,8/28/2023 0:00:00,North,Emma Brown
+1208,P013,Desk Lamp,Furniture,7,45.99,321.93,8/18/2023 0:00:00,South,David Lee
+1086,P012,Standing Desk,Furniture,7,449.99,3149.93,11/1/2023 0:00:00,North,David Lee
+1480,P018,Sticky Notes,Stationary,5,5.99,29.95,11/20/2023 0:00:00,North,David Lee
+1116,P014,Monitor Stand,Furniture,3,49.99,149.97,7/27/2023 0:00:00,South,Sarah Jones
+1104,P003,Keyboard,Electronics,4,79.99,319.96,7/23/2023 0:00:00,North,David Lee
+1121,P002,Wireless Mouse,Electronics,3,29.99,89.97,7/8/2023 0:00:00,East,Sarah Jones
+1338,P020,Planner,Stationary,1,19.99,19.99,7/16/2023 0:00:00,North,Mike Wilson
+1468,P003,Keyboard,Electronics,7,79.99,559.93,9/26/2023 0:00:00,East,Emma Brown
+1156,P010,Tablet,Electronics,4,449.99,1799.96,10/23/2023 0:00:00,East,Sarah Jones
+1227,P007,Webcam,Electronics,9,89.99,809.91,10/20/2023 0:00:00,North,John Smith
+1233,P011,Desk Chair,Furniture,2,199.99,399.98,8/2/2023 0:00:00,East,David Lee
+1200,P004,"Monitor 24""",Electronics,3,249.99,749.97,8/20/2023 0:00:00,East,Sarah Jones
+1487,P011,Desk Chair,Furniture,4,199.99,799.96,9/22/2023 0:00:00,North,Sarah Jones
+1384,P004,"Monitor 24""",Electronics,7,249.99,1749.93,12/7/2023 0:00:00,North,Sarah Jones
+1027,P004,"Monitor 24""",Electronics,3,249.99,749.97,11/28/2023 0:00:00,East,John Smith
+1405,P010,Tablet,Electronics,1,449.99,449.99,8/5/2023 0:00:00,North,Emma Brown
+1442,P012,Standing Desk,Furniture,10,449.99,4499.9,7/4/2023 0:00:00,North,David Lee
+1362,P016,Notebook Set,Stationary,7,15.99,111.93,7/19/2023 0:00:00,West,David Lee
+1096,P003,Keyboard,Electronics,3,79.99,239.97,11/15/2023 0:00:00,East,Sarah Jones
+1488,P013,Desk Lamp,Furniture,6,45.99,275.94,8/5/2023 0:00:00,South,John Smith
+1347,P007,Webcam,Electronics,10,89.99,899.9,8/10/2023 0:00:00,South,John Smith
+1271,P006,Headphones,Electronics,2,149.99,299.98,10/19/2023 0:00:00,South,Sarah Jones
+1062,P013,Desk Lamp,Furniture,1,45.99,45.99,7/3/2023 0:00:00,South,David Lee
+1209,P020,Planner,Stationary,4,19.99,79.96,10/8/2023 0:00:00,North,Emma Brown
+1262,P003,Keyboard,Electronics,4,79.99,319.96,10/4/2023 0:00:00,West,Mike Wilson
+1440,P006,Headphones,Electronics,3,149.99,449.97,10/7/2023 0:00:00,North,Mike Wilson
+1059,P015,Footrest,Furniture,2,35.99,71.98,7/16/2023 0:00:00,East,Emma Brown
+1363,P010,Tablet,Electronics,6,449.99,2699.94,10/12/2023 0:00:00,North,Sarah Jones
+1450,P015,Footrest,Furniture,1,35.99,35.99,10/26/2023 0:00:00,West,Sarah Jones
+1217,P015,Footrest,Furniture,1,35.99,35.99,7/10/2023 0:00:00,North,Sarah Jones
+1125,P011,Desk Chair,Furniture,1,199.99,199.99,10/18/2023 0:00:00,South,Mike Wilson
+1072,P013,Desk Lamp,Furniture,3,45.99,137.97,10/16/2023 0:00:00,West,Sarah Jones
+1454,P013,Desk Lamp,Furniture,3,45.99,137.97,8/8/2023 0:00:00,East,David Lee
+1478,P001,Laptop,Electronics,3,899.99,2699.97,11/9/2023 0:00:00,South,Sarah Jones
+1270,P019,Printer Paper,Stationary,5,24.99,124.95,10/28/2023 0:00:00,East,Sarah Jones
+1127,P012,Standing Desk,Furniture,6,449.99,2699.94,8/31/2023 0:00:00,North,Emma Brown
+1391,P015,Footrest,Furniture,6,35.99,215.94,8/5/2023 0:00:00,North,John Smith
+1335,P013,Desk Lamp,Furniture,10,45.99,459.9,8/26/2023 0:00:00,West,Emma Brown
+1320,P009,External SSD,Electronics,10,109.99,1099.9,7/13/2023 0:00:00,South,Sarah Jones
+1218,P016,Notebook Set,Stationary,6,15.99,95.94,11/19/2023 0:00:00,East,Emma Brown
+1446,P001,Laptop,Electronics,1,899.99,899.99,7/10/2023 0:00:00,North,John Smith
+1403,P006,Headphones,Electronics,7,149.99,1049.93,8/11/2023 0:00:00,North,David Lee
+1417,P011,Desk Chair,Furniture,4,199.99,799.96,9/2/2023 0:00:00,South,David Lee
+1244,P012,Standing Desk,Furniture,7,449.99,3149.93,7/9/2023 0:00:00,West,Mike Wilson
+1283,P017,Pen Pack,Stationary,1,8.99,8.99,8/20/2023 0:00:00,East,Mike Wilson
+1174,P016,Notebook Set,Stationary,8,15.99,127.92,9/28/2023 0:00:00,South,Sarah Jones
+1172,P010,Tablet,Electronics,2,449.99,899.98,10/24/2023 0:00:00,East,Mike Wilson
+1186,P016,Notebook Set,Stationary,1,15.99,15.99,10/6/2023 0:00:00,East,Mike Wilson
+1058,P009,External SSD,Electronics,4,109.99,439.96,11/11/2023 0:00:00,East,Emma Brown
+1171,P015,Footrest,Furniture,6,35.99,215.94,11/7/2023 0:00:00,East,David Lee
+1378,P004,"Monitor 24""",Electronics,4,249.99,999.96,8/28/2023 0:00:00,South,Sarah Jones
+1132,P017,Pen Pack,Stationary,1,8.99,8.99,11/2/2023 0:00:00,East,Emma Brown
+1099,P010,Tablet,Electronics,5,449.99,2249.95,11/30/2023 0:00:00,South,John Smith
+1075,P002,Wireless Mouse,Electronics,1,29.99,29.99,8/8/2023 0:00:00,West,John Smith
+1464,P020,Planner,Stationary,6,19.99,119.94,10/24/2023 0:00:00,North,David Lee
+1158,P008,USB Hub,Electronics,1,34.99,34.99,9/27/2023 0:00:00,South,Sarah Jones
+1128,P019,Printer Paper,Stationary,6,24.99,149.94,8/29/2023 0:00:00,East,Sarah Jones
+1088,P007,Webcam,Electronics,6,89.99,539.94,8/17/2023 0:00:00,East,David Lee
+1332,P001,Laptop,Electronics,2,899.99,1799.98,8/2/2023 0:00:00,West,Emma Brown
+1337,P003,Keyboard,Electronics,10,79.99,799.9,10/6/2023 0:00:00,South,Mike Wilson
+1098,P013,Desk Lamp,Furniture,5,45.99,229.95,11/23/2023 0:00:00,North,Sarah Jones
+1334,P001,Laptop,Electronics,10,899.99,8999.9,10/11/2023 0:00:00,East,John Smith
+1288,P020,Planner,Stationary,6,19.99,119.94,10/17/2023 0:00:00,West,Emma Brown
+1351,P016,Notebook Set,Stationary,5,15.99,79.95,7/17/2023 0:00:00,South,Sarah Jones
+1148,P013,Desk Lamp,Furniture,10,45.99,459.9,11/22/2023 0:00:00,North,Sarah Jones
+1034,P017,Pen Pack,Stationary,4,8.99,35.96,7/5/2023 0:00:00,North,David Lee
+1094,P013,Desk Lamp,Furniture,6,45.99,275.94,8/16/2023 0:00:00,East,John Smith
+1169,P008,USB Hub,Electronics,3,34.99,104.97,8/22/2023 0:00:00,North,John Smith
+1060,P017,Pen Pack,Stationary,6,8.99,53.94,8/9/2023 0:00:00,East,Sarah Jones
+1202,P010,Tablet,Electronics,8,449.99,3599.92,11/27/2023 0:00:00,West,Mike Wilson
+1144,P007,Webcam,Electronics,6,89.99,539.94,8/31/2023 0:00:00,North,Sarah Jones
+1111,P019,Printer Paper,Stationary,10,24.99,249.9,8/6/2023 0:00:00,South,David Lee
+1421,P004,"Monitor 24""",Electronics,1,249.99,249.99,11/1/2023 0:00:00,South,Emma Brown
+1497,P009,External SSD,Electronics,5,109.99,549.95,11/29/2023 0:00:00,North,John Smith
+1388,P004,"Monitor 24""",Electronics,10,249.99,2499.9,8/27/2023 0:00:00,South,Sarah Jones
+1066,P008,USB Hub,Electronics,9,34.99,314.91,10/20/2023 0:00:00,North,Sarah Jones
+1474,P007,Webcam,Electronics,3,89.99,269.97,11/7/2023 0:00:00,East,David Lee
+1197,P008,USB Hub,Electronics,3,34.99,104.97,7/20/2023 0:00:00,West,Mike Wilson
+1439,P001,Laptop,Electronics,2,899.99,1799.98,10/3/2023 0:00:00,West,Sarah Jones
+1203,P017,Pen Pack,Stationary,10,8.99,89.9,10/2/2023 0:00:00,West,Emma Brown
+1189,P018,Sticky Notes,Stationary,8,5.99,47.92,7/11/2023 0:00:00,West,Sarah Jones
+1117,P019,Printer Paper,Stationary,7,24.99,174.93,8/4/2023 0:00:00,South,Emma Brown
+1032,P003,Keyboard,Electronics,5,79.99,399.95,7/11/2023 0:00:00,West,Mike Wilson
+1026,P013,Desk Lamp,Furniture,6,45.99,275.94,8/2/2023 0:00:00,South,David Lee
+1192,P001,Laptop,Electronics,2,899.99,1799.98,7/19/2023 0:00:00,North,David Lee
+1013,P003,Keyboard,Electronics,8,79.99,639.92,10/8/2023 0:00:00,South,John Smith
+1037,P013,Desk Lamp,Furniture,1,45.99,45.99,9/4/2023 0:00:00,West,Mike Wilson
+1210,P011,Desk Chair,Furniture,6,199.99,1199.94,8/22/2023 0:00:00,East,David Lee
+1226,P013,Desk Lamp,Furniture,4,45.99,183.96,10/3/2023 0:00:00,West,David Lee
+1385,P006,Headphones,Electronics,8,149.99,1199.92,9/26/2023 0:00:00,West,Emma Brown
+1319,P018,Sticky Notes,Stationary,2,5.99,11.98,9/13/2023 0:00:00,East,Emma Brown
+1038,P013,Desk Lamp,Furniture,4,45.99,183.96,11/6/2023 0:00:00,South,John Smith
+1381,P007,Webcam,Electronics,8,89.99,719.92,8/17/2023 0:00:00,North,Emma Brown
+1150,P020,Planner,Stationary,5,19.99,99.95,8/30/2023 0:00:00,East,David Lee
+1207,P009,External SSD,Electronics,4,109.99,439.96,10/20/2023 0:00:00,South,David Lee
+1279,P010,Tablet,Electronics,5,449.99,2249.95,9/24/2023 0:00:00,East,Mike Wilson
+1246,P007,Webcam,Electronics,3,89.99,269.97,11/9/2023 0:00:00,East,Mike Wilson
+1256,P012,Standing Desk,Furniture,3,449.99,1349.97,10/16/2023 0:00:00,South,John Smith
+1074,P005,"Monitor 27""",Electronics,4,349.99,1399.96,10/26/2023 0:00:00,West,Emma Brown
+1044,P004,"Monitor 24""",Electronics,5,249.99,1249.95,11/6/2023 0:00:00,South,John Smith
+1282,P014,Monitor Stand,Furniture,10,49.99,499.9,11/5/2023 0:00:00,South,Mike Wilson
+1147,P003,Keyboard,Electronics,7,79.99,559.93,10/28/2023 0:00:00,South,Mike Wilson
+1102,P002,Wireless Mouse,Electronics,9,29.99,269.91,8/26/2023 0:00:00,West,David Lee
+1160,P002,Wireless Mouse,Electronics,10,29.99,299.9,8/30/2023 0:00:00,East,Sarah Jones
+1276,P001,Laptop,Electronics,2,899.99,1799.98,11/16/2023 0:00:00,South,John Smith
+1065,P001,Laptop,Electronics,6,899.99,5399.94,8/9/2023 0:00:00,West,Emma Brown
+1077,P008,USB Hub,Electronics,7,34.99,244.93,9/26/2023 0:00:00,South,John Smith
+1020,P003,Keyboard,Electronics,9,79.99,719.91,9/29/2023 0:00:00,South,Emma Brown
+1166,P004,"Monitor 24""",Electronics,2,249.99,499.98,9/16/2023 0:00:00,North,Emma Brown
+1133,P016,Notebook Set,Stationary,2,15.99,31.98,8/18/2023 0:00:00,South,Sarah Jones
+1298,P008,USB Hub,Electronics,9,34.99,314.91,8/1/2023 0:00:00,South,John Smith
+1250,P010,Tablet,Electronics,5,449.99,2249.95,9/15/2023 0:00:00,West,Emma Brown
+1265,P020,Planner,Stationary,7,19.99,139.93,9/27/2023 0:00:00,West,Sarah Jones
+1118,P017,Pen Pack,Stationary,4,8.99,35.96,11/12/2023 0:00:00,South,Mike Wilson
+1030,P017,Pen Pack,Stationary,9,8.99,80.91,11/20/2023 0:00:00,South,David Lee
+1220,P015,Footrest,Furniture,2,35.99,71.98,9/28/2023 0:00:00,East,Emma Brown
+1413,P004,"Monitor 24""",Electronics,4,249.99,999.96,10/30/2023 0:00:00,North,Mike Wilson
+1063,P001,Laptop,Electronics,1,899.99,899.99,9/2/2023 0:00:00,North,Sarah Jones
+1079,P002,Wireless Mouse,Electronics,9,29.99,269.91,7/17/2023 0:00:00,West,Mike Wilson
+1069,P018,Sticky Notes,Stationary,10,5.99,59.9,7/5/2023 0:00:00,North,Mike Wilson
+1247,P006,Headphones,Electronics,5,149.99,749.95,7/21/2023 0:00:00,South,Sarah Jones
+1153,P019,Printer Paper,Stationary,3,24.99,74.97,8/5/2023 0:00:00,East,Sarah Jones
+1438,P016,Notebook Set,Stationary,4,15.99,63.96,11/15/2023 0:00:00,North,John Smith
+1304,P016,Notebook Set,Stationary,5,15.99,79.95,7/24/2023 0:00:00,East,Emma Brown
+1358,P009,External SSD,Electronics,3,109.99,329.97,7/26/2023 0:00:00,North,Mike Wilson
+1458,P002,Wireless Mouse,Electronics,6,29.99,179.94,8/21/2023 0:00:00,East,Emma Brown
+1292,P012,Standing Desk,Furniture,2,449.99,899.98,8/24/2023 0:00:00,South,Emma Brown
+1452,P005,"Monitor 27""",Electronics,5,349.99,1749.95,9/29/2023 0:00:00,North,Emma Brown
+1168,P003,Keyboard,Electronics,5,79.99,399.95,9/3/2023 0:00:00,North,Mike Wilson
+1120,P008,USB Hub,Electronics,2,34.99,69.98,7/14/2023 0:00:00,East,Mike Wilson
+1046,P015,Footrest,Furniture,10,35.99,359.9,9/22/2023 0:00:00,West,Mike Wilson
+1436,P007,Webcam,Electronics,3,89.99,269.97,7/21/2023 0:00:00,North,Emma Brown
+1309,P018,Sticky Notes,Stationary,6,5.99,35.94,8/7/2023 0:00:00,East,Emma Brown
+1106,P004,"Monitor 24""",Electronics,1,249.99,249.99,10/14/2023 0:00:00,South,Emma Brown
+1364,P013,Desk Lamp,Furniture,8,45.99,367.92,11/2/2023 0:00:00,West,Sarah Jones
+1398,P015,Footrest,Furniture,6,35.99,215.94,7/8/2023 0:00:00,West,John Smith
+1410,P013,Desk Lamp,Furniture,9,45.99,413.91,8/27/2023 0:00:00,North,Emma Brown
+1377,P013,Desk Lamp,Furniture,8,45.99,367.92,10/20/2023 0:00:00,South,Mike Wilson
+1303,P020,Planner,Stationary,1,19.99,19.99,10/11/2023 0:00:00,North,Emma Brown
+1003,P002,Wireless Mouse,Electronics,3,29.99,89.97,8/4/2023 0:00:00,North,Mike Wilson
+1179,P012,Standing Desk,Furniture,7,449.99,3149.93,8/11/2023 0:00:00,South,Mike Wilson
+1045,P013,Desk Lamp,Furniture,1,45.99,45.99,11/28/2023 0:00:00,North,John Smith
+1293,P004,"Monitor 24""",Electronics,7,249.99,1749.93,7/14/2023 0:00:00,East,David Lee
+1145,P010,Tablet,Electronics,3,449.99,1349.97,8/20/2023 0:00:00,West,Mike Wilson
+1009,P017,Pen Pack,Stationary,10,8.99,89.9,9/19/2023 0:00:00,East,David Lee
+1392,P011,Desk Chair,Furniture,6,199.99,1199.94,9/1/2023 0:00:00,North,Emma Brown
+1232,P009,External SSD,Electronics,9,109.99,989.91,7/20/2023 0:00:00,East,Emma Brown
+1103,P007,Webcam,Electronics,7,89.99,629.93,11/23/2023 0:00:00,North,Mike Wilson
+1114,P019,Printer Paper,Stationary,10,24.99,249.9,9/25/2023 0:00:00,East,John Smith
+1374,P003,Keyboard,Electronics,4,79.99,319.96,7/9/2023 0:00:00,East,John Smith
+1231,P010,Tablet,Electronics,5,449.99,2249.95,7/17/2023 0:00:00,North,John Smith
+1366,P016,Notebook Set,Stationary,5,15.99,79.95,8/26/2023 0:00:00,West,David Lee
+1130,P005,"Monitor 27""",Electronics,5,349.99,1749.95,9/30/2023 0:00:00,North,John Smith
+1245,P015,Footrest,Furniture,9,35.99,323.91,8/25/2023 0:00:00,South,Sarah Jones
+1023,P011,Desk Chair,Furniture,7,199.99,1399.93,9/28/2023 0:00:00,East,Emma Brown
+1213,P019,Printer Paper,Stationary,10,24.99,249.9,7/10/2023 0:00:00,East,Mike Wilson
+1485,P015,Footrest,Furniture,7,35.99,251.93,10/6/2023 0:00:00,East,Sarah Jones
+1221,P019,Printer Paper,Stationary,9,24.99,224.91,8/29/2023 0:00:00,East,Sarah Jones
+1051,P012,Standing Desk,Furniture,4,449.99,1799.96,7/9/2023 0:00:00,North,David Lee
+1261,P005,"Monitor 27""",Electronics,2,349.99,699.98,8/27/2023 0:00:00,West,Mike Wilson
+1419,P020,Planner,Stationary,5,19.99,99.95,7/8/2023 0:00:00,North,Sarah Jones
+1462,P001,Laptop,Electronics,1,899.99,899.99,8/8/2023 0:00:00,North,Emma Brown
+1155,P007,Webcam,Electronics,5,89.99,449.95,8/18/2023 0:00:00,South,John Smith
+1142,P010,Tablet,Electronics,3,449.99,1349.97,9/20/2023 0:00:00,West,Mike Wilson
+1175,P012,Standing Desk,Furniture,5,449.99,2249.95,9/7/2023 0:00:00,North,John Smith
+1350,P020,Planner,Stationary,3,19.99,59.97,11/15/2023 0:00:00,South,John Smith
+1322,P020,Planner,Stationary,2,19.99,39.98,9/20/2023 0:00:00,South,Mike Wilson
+1448,P017,Pen Pack,Stationary,2,8.99,17.98,8/7/2023 0:00:00,South,John Smith
+1314,P002,Wireless Mouse,Electronics,8,29.99,239.92,8/17/2023 0:00:00,South,John Smith
+1443,P017,Pen Pack,Stationary,9,8.99,80.91,11/17/2023 0:00:00,East,Mike Wilson
+1028,P005,"Monitor 27""",Electronics,8,349.99,2799.92,7/6/2023 0:00:00,West,Emma Brown
+1447,P013,Desk Lamp,Furniture,9,45.99,413.91,10/3/2023 0:00:00,South,Sarah Jones
+1355,P001,Laptop,Electronics,8,899.99,7199.92,9/22/2023 0:00:00,South,David Lee
+1470,P016,Notebook Set,Stationary,10,15.99,159.9,7/20/2023 0:00:00,North,Sarah Jones
+1315,P001,Laptop,Electronics,8,899.99,7199.92,7/12/2023 0:00:00,South,Emma Brown
+1399,P010,Tablet,Electronics,3,449.99,1349.97,11/21/2023 0:00:00,South,Emma Brown
+1290,P018,Sticky Notes,Stationary,5,5.99,29.95,11/4/2023 0:00:00,North,Mike Wilson
+1157,P011,Desk Chair,Furniture,10,199.99,1999.9,8/11/2023 0:00:00,North,John Smith
+1479,P020,Planner,Stationary,4,19.99,79.96,9/10/2023 0:00:00,North,Emma Brown
+1002,P002,Wireless Mouse,Electronics,7,29.99,209.93,11/15/2023 0:00:00,South,Mike Wilson
+1316,P017,Pen Pack,Stationary,3,8.99,26.97,9/22/2023 0:00:00,North,Sarah Jones
+1278,P017,Pen Pack,Stationary,10,8.99,89.9,10/26/2023 0:00:00,North,Sarah Jones
+1199,P020,Planner,Stationary,10,19.99,199.9,7/11/2023 0:00:00,East,Mike Wilson
+1414,P017,Pen Pack,Stationary,6,8.99,53.94,10/19/2023 0:00:00,East,David Lee
+1252,P014,Monitor Stand,Furniture,10,49.99,499.9,7/17/2023 0:00:00,West,Sarah Jones
+1015,P008,USB Hub,Electronics,7,34.99,244.93,11/14/2023 0:00:00,North,Mike Wilson
+1254,P018,Sticky Notes,Stationary,9,5.99,53.91,11/14/2023 0:00:00,North,John Smith
+1080,P008,USB Hub,Electronics,3,34.99,104.97,11/20/2023 0:00:00,South,David Lee
+1107,P011,Desk Chair,Furniture,3,199.99,599.97,10/12/2023 0:00:00,South,John Smith
+1004,P008,USB Hub,Electronics,3,34.99,104.97,7/1/2023 0:00:00,South,David Lee
+1136,P003,Keyboard,Electronics,2,79.99,159.98,10/3/2023 0:00:00,West,John Smith
+1471,P004,"Monitor 24""",Electronics,1,249.99,249.99,8/26/2023 0:00:00,South,Mike Wilson
+1014,P007,Webcam,Electronics,10,89.99,899.9,7/23/2023 0:00:00,North,Mike Wilson
+1492,P004,"Monitor 24""",Electronics,7,249.99,1749.93,7/4/2023 0:00:00,West,Mike Wilson
+1296,P011,Desk Chair,Furniture,1,199.99,199.99,11/15/2023 0:00:00,West,Emma Brown
+1349,P003,Keyboard,Electronics,5,79.99,399.95,9/21/2023 0:00:00,South,Mike Wilson
+1188,P003,Keyboard,Electronics,6,79.99,479.94,8/12/2023 0:00:00,North,Emma Brown
+1325,P014,Monitor Stand,Furniture,10,49.99,499.9,10/28/2023 0:00:00,North,John Smith
+1287,P018,Sticky Notes,Stationary,9,5.99,53.91,11/24/2023 0:00:00,South,Emma Brown
+1272,P002,Wireless Mouse,Electronics,1,29.99,29.99,10/13/2023 0:00:00,South,John Smith
+1001,P002,Wireless Mouse,Electronics,5,29.99,149.95,7/23/2023 0:00:00,North,John Smith
+1048,P017,Pen Pack,Stationary,10,8.99,89.9,9/9/2023 0:00:00,North,Sarah Jones
+1064,P010,Tablet,Electronics,2,449.99,899.98,9/11/2023 0:00:00,West,David Lee
+1138,P014,Monitor Stand,Furniture,1,49.99,49.99,7/25/2023 0:00:00,North,Emma Brown
+1082,P014,Monitor Stand,Furniture,1,49.99,49.99,9/13/2023 0:00:00,South,John Smith
+1258,P017,Pen Pack,Stationary,10,8.99,89.9,7/5/2023 0:00:00,East,Sarah Jones
+1149,P008,USB Hub,Electronics,1,34.99,34.99,8/11/2023 0:00:00,North,Emma Brown
+1305,P008,USB Hub,Electronics,2,34.99,69.98,10/17/2023 0:00:00,North,Sarah Jones
+1295,P002,Wireless Mouse,Electronics,1,29.99,29.99,11/18/2023 0:00:00,South,Sarah Jones
+1289,P002,Wireless Mouse,Electronics,10,29.99,299.9,7/26/2023 0:00:00,North,Sarah Jones
+1050,P018,Sticky Notes,Stationary,1,5.99,5.99,10/29/2023 0:00:00,East,Mike Wilson
+1211,P003,Keyboard,Electronics,9,79.99,719.91,9/18/2023 0:00:00,East,David Lee
+1402,P009,External SSD,Electronics,10,109.99,1099.9,7/4/2023 0:00:00,South,John Smith
+1340,P020,Planner,Stationary,9,19.99,179.91,9/22/2023 0:00:00,North,Mike Wilson
+1416,P017,Pen Pack,Stationary,3,8.99,26.97,8/22/2023 0:00:00,East,David Lee
+1115,P012,Standing Desk,Furniture,1,449.99,449.99,11/27/2023 0:00:00,West,Mike Wilson
+1054,P014,Monitor Stand,Furniture,1,49.99,49.99,7/4/2023 0:00:00,East,Sarah Jones
+1379,P002,Wireless Mouse,Electronics,7,29.99,209.93,10/5/2023 0:00:00,East,Emma Brown
+1489,P014,Monitor Stand,Furniture,4,49.99,199.96,11/23/2023 0:00:00,North,David Lee
+1162,P012,Standing Desk,Furniture,7,449.99,3149.93,7/6/2023 0:00:00,West,Mike Wilson
+1146,P016,Notebook Set,Stationary,8,15.99,127.92,10/27/2023 0:00:00,East,Mike Wilson
+1275,P018,Sticky Notes,Stationary,1,5.99,5.99,9/16/2023 0:00:00,North,Emma Brown
+1025,P017,Pen Pack,Stationary,7,8.99,62.93,11/15/2023 0:00:00,East,Mike Wilson
+1406,P008,USB Hub,Electronics,5,34.99,174.95,8/3/2023 0:00:00,East,Mike Wilson
+1483,P020,Planner,Stationary,1,19.99,19.99,7/6/2023 0:00:00,West,John Smith
+1427,P019,Printer Paper,Stationary,2,24.99,49.98,11/23/2023 0:00:00,West,Sarah Jones
+1486,P003,Keyboard,Electronics,7,79.99,559.93,11/9/2023 0:00:00,North,Mike Wilson
+1425,P012,Standing Desk,Furniture,2,449.99,899.98,7/31/2023 0:00:00,South,Emma Brown
+1017,P018,Sticky Notes,Stationary,8,5.99,47.92,10/5/2023 0:00:00,North,John Smith
+1198,P004,"Monitor 24""",Electronics,10,249.99,2499.9,10/21/2023 0:00:00,North,Mike Wilson
+1498,P007,Webcam,Electronics,2,89.99,179.98,8/26/2023 0:00:00,South,Mike Wilson
+1418,P010,Tablet,Electronics,1,449.99,449.99,9/7/2023 0:00:00,West,John Smith
+1317,P004,"Monitor 24""",Electronics,3,249.99,749.97,11/23/2023 0:00:00,South,Mike Wilson
+1010,P014,Monitor Stand,Furniture,9,49.99,449.91,11/30/2023 0:00:00,North,Emma Brown
+1119,P020,Planner,Stationary,7,19.99,139.93,9/7/2023 0:00:00,West,Sarah Jones
+1306,P013,Desk Lamp,Furniture,6,45.99,275.94,9/29/2023 0:00:00,South,John Smith
+1495,P020,Planner,Stationary,10,19.99,199.9,10/24/2023 0:00:00,East,Emma Brown
+1238,P018,Sticky Notes,Stationary,9,5.99,53.91,9/10/2023 0:00:00,South,David Lee
+1007,P014,Monitor Stand,Furniture,10,49.99,499.9,10/31/2023 0:00:00,West,John Smith
+1333,P006,Headphones,Electronics,2,149.99,299.98,8/29/2023 0:00:00,North,John Smith
+1206,P001,Laptop,Electronics,4,899.99,3599.96,8/28/2023 0:00:00,South,Sarah Jones
+1302,P013,Desk Lamp,Furniture,4,45.99,183.96,8/23/2023 0:00:00,South,Mike Wilson
+1297,P012,Standing Desk,Furniture,3,449.99,1349.97,9/21/2023 0:00:00,East,Emma Brown
+1230,P005,"Monitor 27""",Electronics,3,349.99,1049.97,11/23/2023 0:00:00,South,David Lee
+1253,P001,Laptop,Electronics,9,899.99,8099.91,8/7/2023 0:00:00,East,Sarah Jones
+1173,P011,Desk Chair,Furniture,3,199.99,599.97,10/21/2023 0:00:00,North,John Smith
+1024,P003,Keyboard,Electronics,3,79.99,239.97,4/10/2023 0:00:00,South,John Smith
+1239,P001,Laptop,Electronics,9,899.99,8099.91,7/28/2023 0:00:00,East,Sarah Jones
+1084,P006,Headphones,Electronics,10,149.99,1499.9,9/22/2023 0:00:00,South,David Lee
+1465,P014,Monitor Stand,Furniture,7,49.99,349.93,9/8/2023 0:00:00,North,John Smith
+1180,P013,Desk Lamp,Furniture,9,45.99,413.91,10/19/2023 0:00:00,West,Emma Brown
+1456,P013,Desk Lamp,Furniture,10,45.99,459.9,9/20/2023 0:00:00,South,Emma Brown
+1396,P006,Headphones,Electronics,4,149.99,599.96,11/22/2023 0:00:00,West,David Lee
+1129,P015,Footrest,Furniture,4,35.99,143.96,10/29/2023 0:00:00,North,Mike Wilson
+1164,P008,USB Hub,Electronics,5,34.99,174.95,10/21/2023 0:00:00,East,David Lee
+1185,P017,Pen Pack,Stationary,3,8.99,26.97,8/14/2023 0:00:00,East,David Lee
+1411,P009,External SSD,Electronics,3,109.99,329.97,11/29/2023 0:00:00,South,Mike Wilson
+1187,P011,Desk Chair,Furniture,3,199.99,599.97,7/20/2023 0:00:00,West,Mike Wilson
+1300,P012,Standing Desk,Furniture,3,449.99,1349.97,10/21/2023 0:00:00,East,Emma Brown
+1243,P003,Keyboard,Electronics,4,79.99,319.96,11/23/2023 0:00:00,North,Emma Brown
+1476,P009,External SSD,Electronics,1,109.99,109.99,7/30/2023 0:00:00,North,Sarah Jones
+1091,P020,Planner,Stationary,5,19.99,99.95,11/10/2023 0:00:00,South,David Lee
+1043,P006,Headphones,Electronics,9,149.99,1349.91,10/5/2023 0:00:00,South,Mike Wilson
+1224,P012,Standing Desk,Furniture,6,449.99,2699.94,7/30/2023 0:00:00,North,Mike Wilson
+1281,P015,Footrest,Furniture,7,35.99,251.93,9/1/2023 0:00:00,East,Mike Wilson
+1182,P015,Footrest,Furniture,10,35.99,359.9,9/21/2023 0:00:00,West,Mike Wilson
+1101,P016,Notebook Set,Stationary,1,15.99,15.99,10/17/2023 0:00:00,East,Sarah Jones
+1494,P017,Pen Pack,Stationary,7,8.99,62.93,10/16/2023 0:00:00,East,Emma Brown
+1291,P004,"Monitor 24""",Electronics,2,249.99,499.98,8/15/2023 0:00:00,South,Sarah Jones
+1105,P010,Tablet,Electronics,1,449.99,449.99,8/23/2023 0:00:00,East,David Lee
+1135,P012,Standing Desk,Furniture,9,449.99,4049.91,10/5/2023 0:00:00,West,Mike Wilson
+1263,P016,Notebook Set,Stationary,7,15.99,111.93,7/10/2023 0:00:00,West,Emma Brown
+1354,P007,Webcam,Electronics,5,89.99,449.95,10/30/2023 0:00:00,South,John Smith
+1178,P007,Webcam,Electronics,8,89.99,719.92,8/6/2023 0:00:00,West,Emma Brown
+1393,P009,External SSD,Electronics,5,109.99,549.95,4/10/2023 0:00:00,West,John Smith
+1163,P014,Monitor Stand,Furniture,7,49.99,349.93,8/10/2023 0:00:00,East,Sarah Jones
+1016,P016,Notebook Set,Stationary,4,15.99,63.96,11/17/2023 0:00:00,East,Sarah Jones
+1311,P017,Pen Pack,Stationary,8,8.99,71.92,8/27/2023 0:00:00,West,Mike Wilson
+1359,P009,External SSD,Electronics,10,109.99,1099.9,11/9/2023 0:00:00,South,John Smith
+1090,P009,External SSD,Electronics,6,109.99,659.94,8/3/2023 0:00:00,East,John Smith
+1449,P010,Tablet,Electronics,4,449.99,1799.96,10/29/2023 0:00:00,South,Mike Wilson
+1089,P004,"Monitor 24""",Electronics,5,249.99,1249.95,8/1/2023 0:00:00,South,John Smith
+1451,P003,Keyboard,Electronics,3,79.99,239.97,10/11/2023 0:00:00,South,David Lee
+1159,P015,Footrest,Furniture,7,35.99,251.93,8/14/2023 0:00:00,North,David Lee
+1236,P015,Footrest,Furniture,6,35.99,215.94,7/19/2023 0:00:00,West,Sarah Jones
+1383,P009,External SSD,Electronics,5,109.99,549.95,10/10/2023 0:00:00,East,Sarah Jones
+1006,P002,Wireless Mouse,Electronics,2,29.99,59.98,8/6/2023 0:00:00,North,Mike Wilson
+1267,P009,External SSD,Electronics,7,109.99,769.93,9/12/2023 0:00:00,South,John Smith
+1214,P015,Footrest,Furniture,2,35.99,71.98,7/5/2023 0:00:00,North,David Lee
+1375,P009,External SSD,Electronics,2,109.99,219.98,8/19/2023 0:00:00,South,Sarah Jones
+1400,P008,USB Hub,Electronics,7,34.99,244.93,8/6/2023 0:00:00,North,John Smith
+1424,P004,"Monitor 24""",Electronics,9,249.99,2249.91,8/8/2023 0:00:00,South,Mike Wilson
+1242,P010,Tablet,Electronics,6,449.99,2699.94,8/5/2023 0:00:00,East,Mike Wilson
+1365,P014,Monitor Stand,Furniture,6,49.99,299.94,10/20/2023 0:00:00,South,Emma Brown
+1342,P005,"Monitor 27""",Electronics,1,349.99,349.99,10/13/2023 0:00:00,East,Emma Brown
+1131,P012,Standing Desk,Furniture,4,449.99,1799.96,7/13/2023 0:00:00,North,Sarah Jones
+1328,P005,"Monitor 27""",Electronics,3,349.99,1049.97,9/26/2023 0:00:00,West,Emma Brown
+1310,P013,Desk Lamp,Furniture,8,45.99,367.92,11/11/2023 0:00:00,North,Mike Wilson
+1269,P001,Laptop,Electronics,6,899.99,5399.94,10/9/2023 0:00:00,South,Mike Wilson
+1371,P007,Webcam,Electronics,9,89.99,809.91,7/26/2023 0:00:00,South,David Lee
+1219,P016,Notebook Set,Stationary,10,15.99,159.9,8/30/2023 0:00:00,East,John Smith
+1395,P004,"Monitor 24""",Electronics,7,249.99,1749.93,11/1/2023 0:00:00,North,Mike Wilson
+1441,P007,Webcam,Electronics,9,89.99,809.91,8/9/2023 0:00:00,East,Mike Wilson
+1167,P013,Desk Lamp,Furniture,4,45.99,183.96,11/19/2023 0:00:00,South,Emma Brown
+1500,P008,USB Hub,Electronics,7,34.99,244.93,11/22/2023 0:00:00,West,Sarah Jones
+1274,P006,Headphones,Electronics,5,149.99,749.95,11/15/2023 0:00:00,North,Emma Brown
+1409,P002,Wireless Mouse,Electronics,7,29.99,209.93,7/31/2023 0:00:00,North,Sarah Jones
+1109,P012,Standing Desk,Furniture,9,449.99,4049.91,10/16/2023 0:00:00,North,Emma Brown
+1367,P015,Footrest,Furniture,9,35.99,323.91,11/4/2023 0:00:00,North,Emma Brown
+1301,P002,Wireless Mouse,Electronics,1,29.99,29.99,8/28/2023 0:00:00,East,John Smith
+1255,P003,Keyboard,Electronics,4,79.99,319.96,10/28/2023 0:00:00,North,David Lee
+1394,P019,Printer Paper,Stationary,5,24.99,124.95,8/6/2023 0:00:00,North,John Smith
+1341,P012,Standing Desk,Furniture,4,449.99,1799.96,10/24/2023 0:00:00,North,Mike Wilson
+1401,P001,Laptop,Electronics,6,899.99,5399.94,11/13/2023 0:00:00,North,Emma Brown
+1407,P007,Webcam,Electronics,10,89.99,899.9,8/5/2023 0:00:00,South,David Lee
+1326,P001,Laptop,Electronics,7,899.99,6299.93,9/14/2023 0:00:00,West,Mike Wilson
+1264,P008,USB Hub,Electronics,4,34.99,139.96,10/6/2023 0:00:00,South,David Lee
+1257,P020,Planner,Stationary,5,19.99,99.95,8/24/2023 0:00:00,South,Mike Wilson
+1019,P009,External SSD,Electronics,7,109.99,769.93,10/16/2023 0:00:00,South,David Lee
+1260,P005,"Monitor 27""",Electronics,6,349.99,2099.94,11/5/2023 0:00:00,West,Mike Wilson
+1423,P014,Monitor Stand,Furniture,3,49.99,149.97,8/29/2023 0:00:00,South,Sarah Jones
+1228,P002,Wireless Mouse,Electronics,2,29.99,59.98,7/26/2023 0:00:00,East,Sarah Jones
+1444,P010,Tablet,Electronics,3,449.99,1349.97,10/10/2023 0:00:00,North,Sarah Jones
+1463,P010,Tablet,Electronics,2,449.99,899.98,7/4/2023 0:00:00,North,David Lee
+1123,P001,Laptop,Electronics,8,899.99,7199.92,8/9/2023 0:00:00,South,David Lee
+1453,P009,External SSD,Electronics,7,109.99,769.93,8/1/2023 0:00:00,North,David Lee
+1222,P008,USB Hub,Electronics,4,34.99,139.96,8/12/2023 0:00:00,North,David Lee
+1466,P002,Wireless Mouse,Electronics,6,29.99,179.94,8/20/2023 0:00:00,North,David Lee
+1140,P020,Planner,Stationary,3,19.99,59.97,7/31/2023 0:00:00,West,Emma Brown
+1412,P006,Headphones,Electronics,10,149.99,1499.9,9/5/2023 0:00:00,North,Emma Brown
+1382,P011,Desk Chair,Furniture,6,199.99,1199.94,7/15/2023 0:00:00,South,David Lee
+1031,P004,"Monitor 24""",Electronics,9,249.99,2249.91,10/3/2023 0:00:00,South,Mike Wilson
+1191,P002,Wireless Mouse,Electronics,10,29.99,299.9,4/10/2023 0:00:00,West,Sarah Jones
+1047,P015,Footrest,Furniture,10,35.99,359.9,11/24/2023 0:00:00,West,Emma Brown
+1428,P014,Monitor Stand,Furniture,9,49.99,449.91,7/6/2023 0:00:00,West,Sarah Jones
+1420,P008,USB Hub,Electronics,8,34.99,279.92,10/16/2023 0:00:00,West,David Lee
+1057,P003,Keyboard,Electronics,2,79.99,159.98,10/22/2023 0:00:00,North,David Lee
+1348,P006,Headphones,Electronics,6,149.99,899.94,7/25/2023 0:00:00,West,Mike Wilson
+1415,P002,Wireless Mouse,Electronics,3,29.99,89.97,8/26/2023 0:00:00,East,John Smith
+1284,P012,Standing Desk,Furniture,6,449.99,2699.94,9/21/2023 0:00:00,South,David Lee
+1469,P009,External SSD,Electronics,8,109.99,879.92,7/4/2023 0:00:00,West,Mike Wilson
+1205,P012,Standing Desk,Furniture,7,449.99,3149.93,11/4/2023 0:00:00,West,Mike Wilson
+1018,P005,"Monitor 27""",Electronics,8,349.99,2799.92,8/19/2023 0:00:00,North,Mike Wilson
+1055,P002,Wireless Mouse,Electronics,5,29.99,149.95,11/12/2023 0:00:00,North,Sarah Jones
+1461,P020,Planner,Stationary,3,19.99,59.97,8/2/2023 0:00:00,West,David Lee
+1100,P005,"Monitor 27""",Electronics,5,349.99,1749.95,11/9/2023 0:00:00,East,Sarah Jones
+1308,P018,Sticky Notes,Stationary,6,5.99,35.94,9/20/2023 0:00:00,South,John Smith
+1294,P008,USB Hub,Electronics,1,34.99,34.99,8/24/2023 0:00:00,East,Sarah Jones
+1353,P017,Pen Pack,Stationary,10,8.99,89.9,9/8/2023 0:00:00,East,David Lee
+1181,P008,USB Hub,Electronics,10,34.99,349.9,8/28/2023 0:00:00,South,Mike Wilson
+1345,P012,Standing Desk,Furniture,6,449.99,2699.94,10/4/2023 0:00:00,North,David Lee
+1056,P010,Tablet,Electronics,8,449.99,3599.92,10/28/2023 0:00:00,North,David Lee
+1327,P014,Monitor Stand,Furniture,3,49.99,149.97,9/25/2023 0:00:00,East,Sarah Jones
+1087,P006,Headphones,Electronics,7,149.99,1049.93,7/7/2023 0:00:00,North,Sarah Jones
+1108,P002,Wireless Mouse,Electronics,4,29.99,119.96,8/8/2023 0:00:00,South,Mike Wilson
+1251,P008,USB Hub,Electronics,1,34.99,34.99,7/11/2023 0:00:00,North,Sarah Jones
+1422,P004,"Monitor 24""",Electronics,1,249.99,249.99,9/3/2023 0:00:00,North,John Smith
+1053,P003,Keyboard,Electronics,5,79.99,399.95,11/9/2023 0:00:00,East,Mike Wilson
+1376,P016,Notebook Set,Stationary,2,15.99,31.98,7/28/2023 0:00:00,South,Mike Wilson
+1459,P012,Standing Desk,Furniture,7,449.99,3149.93,10/2/2023 0:00:00,East,David Lee
+1248,P014,Monitor Stand,Furniture,8,49.99,399.92,8/10/2023 0:00:00,North,David Lee
+1455,P003,Keyboard,Electronics,1,79.99,79.99,9/17/2023 0:00:00,East,Emma Brown
+1151,P008,USB Hub,Electronics,7,34.99,244.93,7/22/2023 0:00:00,East,David Lee
+1457,P006,Headphones,Electronics,9,149.99,1349.91,8/29/2023 0:00:00,North,John Smith
+1323,P002,Wireless Mouse,Electronics,1,29.99,29.99,11/18/2023 0:00:00,East,Mike Wilson
+1113,P012,Standing Desk,Furniture,5,449.99,2249.95,10/28/2023 0:00:00,North,David Lee
+1321,P020,Planner,Stationary,8,19.99,159.92,7/14/2023 0:00:00,East,Emma Brown
+1307,P002,Wireless Mouse,Electronics,7,29.99,209.93,7/22/2023 0:00:00,North,Mike Wilson
+1195,P002,Wireless Mouse,Electronics,9,29.99,269.91,8/19/2023 0:00:00,North,Emma Brown
+1021,P001,Laptop,Electronics,9,899.99,8099.91,10/5/2023 0:00:00,North,Emma Brown
+1431,P002,Wireless Mouse,Electronics,9,29.99,269.91,9/6/2023 0:00:00,West,David Lee
+1085,P018,Sticky Notes,Stationary,4,5.99,23.96,10/11/2023 0:00:00,West,Sarah Jones
+1437,P006,Headphones,Electronics,9,149.99,1349.91,7/25/2023 0:00:00,West,David Lee
+1161,P008,USB Hub,Electronics,5,34.99,174.95,8/13/2023 0:00:00,East,David Lee
+1137,P003,Keyboard,Electronics,7,79.99,559.93,10/23/2023 0:00:00,West,John Smith
+1372,P002,Wireless Mouse,Electronics,4,29.99,119.96,10/27/2023 0:00:00,West,Mike Wilson
+1049,P004,"Monitor 24""",Electronics,1,249.99,249.99,10/18/2023 0:00:00,East,Emma Brown
+1141,P017,Pen Pack,Stationary,6,8.99,53.94,7/9/2023 0:00:00,North,Mike Wilson
+1225,P001,Laptop,Electronics,2,899.99,1799.98,9/10/2023 0:00:00,North,David Lee
+1035,P008,USB Hub,Electronics,2,34.99,69.98,9/20/2023 0:00:00,South,David Lee
+1201,P015,Footrest,Furniture,10,35.99,359.9,9/18/2023 0:00:00,South,Mike Wilson
+1490,P004,"Monitor 24""",Electronics,7,249.99,1749.93,7/7/2023 0:00:00,East,David Lee
+1081,P009,External SSD,Electronics,7,109.99,769.93,11/20/2023 0:00:00,South,Sarah Jones
+1176,P004,"Monitor 24""",Electronics,1,249.99,249.99,9/27/2023 0:00:00,West,Emma Brown
+1318,P017,Pen Pack,Stationary,4,8.99,35.96,10/6/2023 0:00:00,North,Sarah Jones
+1343,P001,Laptop,Electronics,8,899.99,7199.92,10/25/2023 0:00:00,East,Emma Brown
+1493,P013,Desk Lamp,Furniture,5,45.99,229.95,9/24/2023 0:00:00,North,Sarah Jones
+1183,P015,Footrest,Furniture,1,35.99,35.99,8/30/2023 0:00:00,North,Sarah Jones
+1154,P006,Headphones,Electronics,8,149.99,1199.92,9/7/2023 0:00:00,West,David Lee
+1073,P001,Laptop,Electronics,3,899.99,2699.97,7/23/2023 0:00:00,North,John Smith
+1170,P014,Monitor Stand,Furniture,9,49.99,449.91,9/16/2023 0:00:00,South,Sarah Jones
+1312,P013,Desk Lamp,Furniture,2,45.99,91.98,9/9/2023 0:00:00,West,Sarah Jones
+1286,P007,Webcam,Electronics,9,89.99,809.91,9/24/2023 0:00:00,West,Mike Wilson
+1097,P013,Desk Lamp,Furniture,5,45.99,229.95,7/17/2023 0:00:00,South,David Lee
+1223,P010,Tablet,Electronics,2,449.99,899.98,8/31/2023 0:00:00,North,Mike Wilson
+1076,P005,"Monitor 27""",Electronics,1,349.99,349.99,9/30/2023 0:00:00,West,Sarah Jones
+1036,P018,Sticky Notes,Stationary,3,5.99,17.97,11/14/2023 0:00:00,West,Emma Brown
+1229,P017,Pen Pack,Stationary,9,8.99,80.91,7/3/2023 0:00:00,West,Mike Wilson
+1095,P014,Monitor Stand,Furniture,4,49.99,199.96,8/31/2023 0:00:00,East,Sarah Jones
+1499,P007,Webcam,Electronics,4,89.99,359.96,11/2/2023 0:00:00,South,Emma Brown
+1484,P009,External SSD,Electronics,5,109.99,549.95,7/5/2023 0:00:00,North,Emma Brown
+1357,P003,Keyboard,Electronics,5,79.99,399.95,11/30/2023 0:00:00,East,Sarah Jones
+1460,P018,Sticky Notes,Stationary,5,5.99,29.95,7/2/2023 0:00:00,West,Sarah Jones
+1477,P008,USB Hub,Electronics,5,34.99,174.95,11/16/2023 0:00:00,North,Mike Wilson
+1346,P011,Desk Chair,Furniture,9,199.99,1799.91,9/20/2023 0:00:00,North,Emma Brown
+1124,P015,Footrest,Furniture,4,35.99,143.96,7/18/2023 0:00:00,West,Emma Brown
+1143,P008,USB Hub,Electronics,9,34.99,314.91,7/9/2023 0:00:00,West,Sarah Jones
+1361,P019,Printer Paper,Stationary,7,24.99,174.93,7/21/2023 0:00:00,South,Sarah Jones
+1092,P004,"Monitor 24""",Electronics,6,249.99,1499.94,9/12/2023 0:00:00,West,Sarah Jones
+1266,P002,Wireless Mouse,Electronics,4,29.99,119.96,11/12/2023 0:00:00,West,Sarah Jones
+1022,P001,Laptop,Electronics,6,899.99,5399.94,9/6/2023 0:00:00,North,David Lee
+1215,P002,Wireless Mouse,Electronics,7,29.99,209.93,7/17/2023 0:00:00,South,Sarah Jones
+1373,P004,"Monitor 24""",Electronics,2,249.99,499.98,10/3/2023 0:00:00,East,John Smith
+1285,P002,Wireless Mouse,Electronics,2,29.99,59.98,11/27/2023 0:00:00,South,Mike Wilson
+1331,P012,Standing Desk,Furniture,1,449.99,449.99,8/14/2023 0:00:00,North,Sarah Jones
+1029,P010,Tablet,Electronics,7,449.99,3149.93,7/8/2023 0:00:00,North,Mike Wilson
+1139,P013,Desk Lamp,Furniture,6,45.99,275.94,10/3/2023 0:00:00,South,Mike Wilson
+1356,P015,Footrest,Furniture,10,35.99,359.9,8/25/2023 0:00:00,West,Mike Wilson
+1481,P011,Desk Chair,Furniture,5,199.99,999.95,10/8/2023 0:00:00,South,John Smith
+1368,P017,Pen Pack,Stationary,10,8.99,89.9,11/9/2023 0:00:00,West,David Lee
+1369,P004,"Monitor 24""",Electronics,6,249.99,1499.94,10/5/2023 0:00:00,South,Mike Wilson
+1277,P009,External SSD,Electronics,2,109.99,219.98,11/16/2023 0:00:00,North,David Lee
+1041,P012,Standing Desk,Furniture,4,449.99,1799.96,10/23/2023 0:00:00,West,Sarah Jones
+1216,P011,Desk Chair,Furniture,4,199.99,799.96,9/4/2023 0:00:00,West,Sarah Jones
+1339,P019,Printer Paper,Stationary,9,24.99,224.91,11/1/2023 0:00:00,North,Emma Brown
+1336,P006,Headphones,Electronics,1,149.99,149.99,7/19/2023 0:00:00,South,Sarah Jones
+1430,P001,Laptop,Electronics,8,899.99,7199.92,7/16/2023 0:00:00,South,Emma Brown
+1078,P010,Tablet,Electronics,6,449.99,2699.94,10/11/2023 0:00:00,West,John Smith
+1330,P012,Standing Desk,Furniture,5,449.99,2249.95,10/2/2023 0:00:00,West,John Smith
+1234,P018,Sticky Notes,Stationary,10,5.99,59.9,9/18/2023 0:00:00,North,Mike Wilson
+1432,P006,Headphones,Electronics,3,149.99,449.97,11/29/2023 0:00:00,East,David Lee
+1386,P011,Desk Chair,Furniture,5,199.99,999.95,11/5/2023 0:00:00,West,Emma Brown
+1426,P004,"Monitor 24""",Electronics,4,249.99,999.96,9/12/2023 0:00:00,East,Sarah Jones
+1313,P003,Keyboard,Electronics,4,79.99,319.96,11/19/2023 0:00:00,South,Emma Brown
+1042,P013,Desk Lamp,Furniture,1,45.99,45.99,10/15/2023 0:00:00,North,Mike Wilson
+1184,P009,External SSD,Electronics,3,109.99,329.97,11/3/2023 0:00:00,East,Sarah Jones
+1482,P010,Tablet,Electronics,7,449.99,3149.93,7/21/2023 0:00:00,East,Sarah Jones
+1390,P003,Keyboard,Electronics,8,79.99,639.92,7/4/2023 0:00:00,North,David Lee
+1241,P005,"Monitor 27""",Electronics,4,349.99,1399.96,7/22/2023 0:00:00,South,David Lee
+1039,P020,Planner,Stationary,10,19.99,199.9,11/4/2023 0:00:00,South,John Smith
+1434,P011,Desk Chair,Furniture,4,199.99,799.96,10/14/2023 0:00:00,North,David Lee
+1068,P016,Notebook Set,Stationary,2,15.99,31.98,8/2/2023 0:00:00,West,Mike Wilson
+1280,P020,Planner,Stationary,3,19.99,59.97,11/20/2023 0:00:00,West,David Lee
+1193,P016,Notebook Set,Stationary,9,15.99,143.91,11/5/2023 0:00:00,West,Mike Wilson
+1194,P013,Desk Lamp,Furniture,4,45.99,183.96,11/10/2023 0:00:00,West,Sarah Jones
+1204,P017,Pen Pack,Stationary,2,8.99,17.98,8/4/2023 0:00:00,East,John Smith
+1083,P012,Standing Desk,Furniture,9,449.99,4049.91,7/1/2023 0:00:00,South,Emma Brown
+1299,P018,Sticky Notes,Stationary,2,5.99,11.98,7/5/2023 0:00:00,South,John Smith
+1370,P002,Wireless Mouse,Electronics,1,29.99,29.99,7/7/2023 0:00:00,North,Sarah Jones
+1040,P002,Wireless Mouse,Electronics,6,29.99,179.94,10/26/2023 0:00:00,East,Mike Wilson
+1177,P013,Desk Lamp,Furniture,3,45.99,137.97,8/15/2023 0:00:00,East,Mike Wilson
+1496,P006,Headphones,Electronics,1,149.99,149.99,9/7/2023 0:00:00,South,David Lee
+1324,P018,Sticky Notes,Stationary,5,5.99,29.95,10/4/2023 0:00:00,South,Mike Wilson
+1259,P007,Webcam,Electronics,5,89.99,449.95,8/15/2023 0:00:00,North,Emma Brown
+1061,P007,Webcam,Electronics,4,89.99,359.96,7/10/2023 0:00:00,West,John Smith
+1134,P011,Desk Chair,Furniture,7,199.99,1399.93,11/3/2023 0:00:00,East,John Smith
+1122,P018,Sticky Notes,Stationary,4,5.99,23.96,11/8/2023 0:00:00,West,David Lee
+1268,P001,Laptop,Electronics,5,899.99,4499.95,11/21/2023 0:00:00,East,John Smith
+1093,P001,Laptop,Electronics,2,899.99,1799.98,7/29/2023 0:00:00,South,Emma Brown
+1475,P004,"Monitor 24""",Electronics,7,249.99,1749.93,7/6/2023 0:00:00,West,John Smith
+1445,P010,Tablet,Electronics,5,449.99,2249.95,9/18/2023 0:00:00,North,Emma Brown
